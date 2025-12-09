@@ -1,4 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/stevenaeola/amc_2526/main/samples/",
-  "swallows": "swallows/barnswallowsongcallvoicesound.wav"
+  "swallows": "swallows/barnswallowsongcallvoicesound.wav",
+  "bash": "brett/ShortUnpitched.wav"
 }
